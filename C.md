@@ -14,37 +14,6 @@ int main() {
 
 ## Reserved words
 
-| Word | Usage |
-|-----|---|
-| auto  | |
-| break | |
-| case | |
-| char | |
-| const |  |
-| continue | |
-| default | |
-| do | |
-| double | |
-| else | |
-| enum | |
-| extern | |
-| float | |
-| for | |
-| goto | |
-| if | |
-| int | |
-| long | |
-| register | |
-| return | |
-| short | |
-| signed | | 
-| sizeof | |
-| static | |
-| struct | |
-| switch | |
-| typedef | |
-| union | |
-| unsigned | |
-| void | |
-| volatile | |
-| while | | 
+| C keywords |
+|--------|
+| `auto` <br/> `break` <br/> `case` `char` `const` `continue` <br/> `default` `do` `double` <br/> `else` `enum` `extern` <br/> `float` `for` <br/> `goto` <br/> `if` `int` <br/> `long` <br/> `register` `return` <br/> `short` `signed` `sizeof` `static` `struct` `switch` <br/> `typedef` <br/> `union` `unsigned` <br/> `void` `volatile` <br/> `while` |
