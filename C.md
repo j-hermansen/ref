@@ -2,7 +2,7 @@
 
 
 ## Simple C program structure
-// hello.c
+Program name: `hello.c`
 ```C
 #include <stdio.h>
 
@@ -15,7 +15,7 @@ int main() {
 ## Run C program
 Compile
 ```bash
-hcc hello.c
+gcc hello.c
 ```
 Run
 ```bash
