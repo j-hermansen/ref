@@ -2,7 +2,7 @@
 
 
 ## Simple C program structure
-
+// hello.c
 ```C
 #include <stdio.h>
 
@@ -10,6 +10,16 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
+```
+
+## Run C program
+Compile
+```bash
+hcc hello.c
+```
+Run
+```bash
+./a.out
 ```
 
 ## Reserved words
