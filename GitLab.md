@@ -3,6 +3,8 @@
 ## Pipeline
 - `.gitlab-ci.yml` in project root
 - pipeline jobs are runned by gitlab runner
+- stages are runned in the order as defined in `stages: ...` in top of file
+- to get data of one stage on to the next you can use `artifacts: ..` property
 
 <br><br><br>
 
