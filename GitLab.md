@@ -1,19 +1,27 @@
 # GitLab
 
+<br><br>
+
 ## Pipeline
-- `.gitlab-ci.yml` in project root
+- `.gitlab-ci.yml` in project root (https://docs.gitlab.com/ee/ci/yaml/#cache)
 - pipeline jobs are runned by gitlab runner
 - jobs (with defined stage: prop) are runned in the order as defined in `stages: ...` in top of file
 - to get data of one stage on to the next you can use `artifacts: ..` property
 
-<br><br><br>
+## Adding variables to your applications
+Go to project repo and click on **Settings > CI/CD > Variables** 
 
-## Examples
+## Cache
+```yml
+cache:
+  key: ${CI_COMMIT_REF_SLUG}   # cache unique identifying key
+  paths:
+    - node_modules/            # what to cache
+	policy: push                 # set the upload and download behavior of a cache (pull, push, pull-push)
+```
 
-### Adding variables to your applications
-Go to project repo and click on Settings > CI/CD > Variables
 
-### Sample .gitlab-ci.yml file
+## Sample .gitlab-ci.yml file
 ```yml
 stages:
   - build
