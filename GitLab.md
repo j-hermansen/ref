@@ -17,7 +17,7 @@ cache:
   key: ${CI_COMMIT_REF_SLUG}   # cache unique identifying key
   paths:
     - node_modules/            # what to cache
-	policy: push                 # set the upload and download behavior of a cache (pull, push, pull-push)
+  policy: push                 # set the upload and download behavior of a cache (pull, push, pull-push)
 ```
 
 
