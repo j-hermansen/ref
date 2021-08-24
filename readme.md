@@ -9,4 +9,5 @@
 | Reactive programming | Programming with asynchronous data streams |
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | WebFlux | Reactive programming used in Spring |
+| Windows Registry | Stores much of the information and settings for software programs, hardware devices, user preferences, and operating-system configurations |
 
