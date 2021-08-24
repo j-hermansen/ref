@@ -4,3 +4,5 @@
 | JBoss     |  Application server |
 | Prometheus | Systems monitoring and alerting toolkit |
 | RBAC     |  Role-based access control |
+| WebFlux | Reactive programming |
+| Reactive programming | Programming with asynchronous data streams |
