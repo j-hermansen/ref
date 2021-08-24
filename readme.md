@@ -4,5 +4,5 @@
 | JBoss     |  Application server |
 | Prometheus | Systems monitoring and alerting toolkit |
 | RBAC     |  Role-based access control |
-| WebFlux | Reactive programming |
+| WebFlux | Reactive programming used in Spring |
 | Reactive programming | Programming with asynchronous data streams |
