@@ -2,6 +2,7 @@
 |----------:|:-------------             |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | JBoss     |  Application server |
+| Karma | Test runner for JavaScript that rund on Node.js | 
 | KeyStore | Keystore stores your credential (server or client) |
 | OIDC | OpenID Connect. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
 | Prometheus | Systems monitoring and alerting toolkit |
