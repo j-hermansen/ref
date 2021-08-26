@@ -14,6 +14,6 @@
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
 | WebFlux | Reactive programming used in Spring |
-| Webpack | Module bundler. Generate large file(s) from a lot of smaller files |
+| Webpack | Module bundler. Generate large file(s) from a lot of smaller files. Improve efficiency and load time |
 | Windows Registry | Stores much of the information and settings for software programs, hardware devices, user preferences, and operating-system configurations |
 
