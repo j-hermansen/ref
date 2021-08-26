@@ -4,7 +4,7 @@
 | JBoss     |  Application server |
 | Karma | Test runner for JavaScript that rund on Node.js | 
 | KeyStore | Keystore stores your credential (server or client) |
-| OAuth | Used for Authorization. Used to allow applications access to given data on another application, on users behalf |
+| OAuth | Used for Authorization. Used to allow applications access to given data on another application (using tokens), on users behalf |
 | OIDC | OpenID Connect. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
 | Prometheus | Systems monitoring and alerting toolkit |
 | RBAC     |  Role-based access control |
