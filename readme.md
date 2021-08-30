@@ -3,6 +3,7 @@
 | AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application | 
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | JBoss     |  Application server |
+| JIB | Java tool for building Docker images of Java applications without writing a Dockerfile | 
 | JIT | *Just In Time*. Compiler when running app. Compiler is in the bundle of the application |
 | JWT | *JSON Web Token*. For user authentication (Stateless), not stored on the server (compared to Sessions, that are stored on server). JWT therefore do not need to lookup a sessionID in a storage on the server, server only validates signature on the JWT |
 | Karma | Test runner for JavaScript that rund on Node.js | 
