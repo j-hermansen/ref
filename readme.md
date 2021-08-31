@@ -8,6 +8,7 @@
 | JIT | *Just In Time*. Compiler when running app. Compiler is in the bundle of the application |
 | JWT | *JSON Web Token*. For user authentication (Stateless), not stored on the server (compared to Sessions, that are stored on server). JWT therefore do not need to lookup a sessionID in a storage on the server, server only validates signature on the JWT |
 | Karma | Test runner for JavaScript that rund on Node.js | 
+| Kerberos | A network authentication protocol |
 | KeyStore | Keystore stores your credential (server or client) |
 | Laravel | Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching |
 | OAuth | Used for Authorization. Allow a website or application to access resources hosted by other web apps on behalf of a user (using tokens) |
