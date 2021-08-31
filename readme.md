@@ -9,7 +9,7 @@
 | Karma | Test runner for JavaScript that rund on Node.js | 
 | KeyStore | Keystore stores your credential (server or client) |
 | Laravel | Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching |
-| OAuth | Used for Authorization. Used to allow applications access to given data on another application (using tokens), on users behalf |
+| OAuth | Used for Authorization. Allow a website or application to access resources hosted by other web apps on behalf of a user (using tokens) |
 | Observable | Stream of data that you can subscribe to. Type of asynchronious data.
 | OIDC | *OpenID Connect*. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
 | Prometheus | Systems monitoring and alerting toolkit |
