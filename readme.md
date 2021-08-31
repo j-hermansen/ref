@@ -8,6 +8,7 @@
 | JWT | *JSON Web Token*. For user authentication (Stateless), not stored on the server (compared to Sessions, that are stored on server). JWT therefore do not need to lookup a sessionID in a storage on the server, server only validates signature on the JWT |
 | Karma | Test runner for JavaScript that rund on Node.js | 
 | KeyStore | Keystore stores your credential (server or client) |
+| Laravel | Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching |
 | OAuth | Used for Authorization. Used to allow applications access to given data on another application (using tokens), on users behalf |
 | Observable | Stream of data that you can subscribe to. Type of asynchronious data.
 | OIDC | *OpenID Connect*. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
