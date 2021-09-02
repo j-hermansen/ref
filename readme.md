@@ -19,6 +19,7 @@
 | Prometheus | Systems monitoring and alerting toolkit |
 | RBAC     |  Role-based access control |
 | Reactive programming | Programming with asynchronous data streams |
+| Rust | Low-level Programming language with direct access to hardware and memory |
 | Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server).
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
