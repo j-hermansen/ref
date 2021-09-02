@@ -2,6 +2,7 @@
 |----------:|:-------------             |
 | AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application | 
 | Cypress | JavaScript-based front end testing tool built for the modern web |
+| Dart | Programming language for client development |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
 | JBoss     |  Application server |
 | JIB | Java tool for building Docker images of Java applications without writing a Dockerfile, no need to install docker | 
