@@ -14,6 +14,7 @@
 | Laravel | Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching |
 | LDAP | *Lightweight Directory Access Protocol*. Searches a network for something that you do not know the location of. LDAP extracts information in a usable format from Active Directory, which contains attributes behind every user account on the network | 
 | Machine Learning | Subfield of artificial intelligence, which enables machines to learn from past data or experiences without being explicitly programmed |
+| Miniconda | Miniconda is essentially an installer for an empty *conda* environment, containing only Conda, its dependencies, and Python |
 | OAuth | Used for Authorization. Allow a website or application to access resources hosted by other web apps on behalf of a user (using tokens) |
 | Observable | Stream of data that you can subscribe to. Type of asynchronious data.
 | OIDC | *OpenID Connect*. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
