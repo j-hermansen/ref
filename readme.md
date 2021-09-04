@@ -18,6 +18,7 @@
 | OAuth | Used for Authorization. Allow a website or application to access resources hosted by other web apps on behalf of a user (using tokens) |
 | Observable | Stream of data that you can subscribe to. Type of asynchronious data.
 | OIDC | *OpenID Connect*. Authentication protocol which allows to verify user identity when a user is trying to access a protected HTTPs endpoint |
+| Pandas | Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language |
 | Prometheus | Systems monitoring and alerting toolkit |
 | RBAC     |  Role-based access control |
 | Reactive programming | Programming with asynchronous data streams |
