@@ -24,6 +24,7 @@
 | Reactive programming | Programming with asynchronous data streams |
 | Redis | In-memory data structure store, used as a database, cache, and message broker |
 | Rust | Low-level Programming language with direct access to hardware and memory |
+| SAML | *Security Assertion Markup Language*. Passing information about users, logins, and attributes between the identity provider and service providers.
 | Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server).
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
