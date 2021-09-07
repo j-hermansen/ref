@@ -25,7 +25,8 @@
 | Redis | In-memory data structure store, used as a database, cache, and message broker |
 | Rust | Low-level Programming language with direct access to hardware and memory |
 | SAML | *Security Assertion Markup Language*. Passing information about users, logins, and attributes between the identity provider and service providers.
-| Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server).
+| Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server). |
+| Solr | *Searching On Lucene w/ Replication*. Search platform written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g., Word, PDF) handling.
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
 | WebFlux | Reactive programming used in Spring |
