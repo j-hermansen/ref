@@ -1,6 +1,7 @@
 | Name     |     Explanation           |
 |----------:|:-------------             |
-| AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application | 
+| AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application |
+| cURL | * Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | Dart | Programming language for client development |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
