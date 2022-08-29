@@ -30,7 +30,8 @@
 | SAML | *Security Assertion Markup Language*. Passing information about users, logins, and attributes between the identity provider and service providers.
 | Scala | Programming language that is running on JVM and used in Data processing, distributed computing, and web development. |
 | Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server). |
-| Solr | *Searching On Lucene w/ Replication*. Search platform written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g., Word, PDF) handling.
+| Solr | *Searching On Lucene w/ Replication*. Search platform written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g., Word, PDF) handling. |
+| Travis CI | Continious integration service used to build and test software projects hosted on GitHub and Bitbucket |
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
 | WebFlux | Reactive programming used in Spring |
