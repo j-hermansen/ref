@@ -1,5 +1,6 @@
 | Name     |     Explanation           |
 |----------:|:-------------             |
+| Angular | Angular is a development platform, built on TypeScript. |
 | AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application |
 | cURL | *Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
