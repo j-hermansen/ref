@@ -34,6 +34,7 @@
 | Rust | Low-level Programming language with direct access to hardware and memory |
 | SAML | *Security Assertion Markup Language*. Passing information about users, logins, and attributes between the identity provider and service providers. |
 | SSH | *Secure Shell*. A network protocol that lets users securely access another computer | 
+| SSO | *Single Sign On*. Allows one set of login credentials to access multiple applications |
 | Scala | Programming language that is running on JVM and used in Data processing, distributed computing, and web development. |
 | Sessions | For user authentication (Stateful), stored on the server (compared to JWT, that are not stored on server). |
 | Solr | *Searching On Lucene w/ Replication*. Search platform written in Java. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g., Word, PDF) handling. |
