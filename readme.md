@@ -3,6 +3,7 @@
 | Angular | Angular is a development platform, built on TypeScript. |
 | AOT | *Ahead Of Time*. Compiles before (when building app). Not in bundle of the application |
 | Azure | Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform |
+| Booting | The process of loading an operating system |
 | Checksum | Used for making sure that data and software you download hasn't been corrupted |
 | cURL | *Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
