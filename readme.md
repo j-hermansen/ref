@@ -15,6 +15,7 @@
 | JBoss     |  Application server |
 | JIB | Java tool for building Docker images of Java applications without writing a Dockerfile, no need to install docker | 
 | JIT | *Just In Time*. Compiler when running app. Compiler is in the bundle of the application |
+| JDNI | *Java Naming and Directory Interface*. Can be used for associating a name with and object. |
 | JWT | *JSON Web Token*. For user authentication (Stateless), not stored on the server (compared to Sessions, that are stored on server). JWT therefore do not need to lookup a sessionID in a storage on the server, server only validates signature on the JWT |
 | Karma | Test runner for JavaScript that rund on Node.js | 
 | Kerberos | A network authentication protocol. Works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner |
