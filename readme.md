@@ -8,6 +8,7 @@
 | cURL | *Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | Dart | Programming language for client development |
+| Elasticsearch | A distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. |
 | Go | *Golang*. Open source programming language used for general puppose. Developed by Google |
 | Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
