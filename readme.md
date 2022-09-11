@@ -12,7 +12,8 @@
 | DNS | *Domain Name System*. Internet service to convert alphabetic names into IP addresses |
 | Elasticsearch | A distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. |
 | Go | *Golang*. Open source programming language used for general puppose. Developed by Google |
-| Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
+| GPU | *Graphics Processing Unit*. A processing unit used for handling graphics on the computer screen |
+ | Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
 | ICAP | *Internet Content Adaption Protocol*. HTTP like protocol used to extend transparent proxy-servers. Generally used to implemnet virus scanning and content filters in transparent HTTP proxy caches.
 | JBoss     |  Application server |
