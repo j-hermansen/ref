@@ -9,6 +9,7 @@
 | cURL | *Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | Dart | Programming language for client development |
+| Device Driver | A program routine that links the operating system to a peripheral device |
 | DNS | *Domain Name System*. Internet service to convert alphabetic names into IP addresses |
 | Elasticsearch | A distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. |
 | Go | *Golang*. Open source programming language used for general puppose. Developed by Google |
