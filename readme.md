@@ -48,6 +48,7 @@
 | Travis CI | Continious integration service used to build and test software projects hosted on GitHub and Bitbucket |
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
+| Vue | JavaScript framework for building user interfaces, build on top of HTML, CSS, and JavaScript |
 | WebFlux | Reactive programming used in Spring |
 | Webpack | Module bundler. Generate large file(s) from a lot of smaller files. Improve efficiency and load time |
 | Windows Registry | Stores much of the information and settings for software programs, hardware devices, user preferences, and operating-system configurations |
