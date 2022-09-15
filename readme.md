@@ -15,7 +15,7 @@
 | Elasticsearch | A distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. |
 | Go | *Golang*. Open source programming language used for general puppose. Developed by Google |
 | GPU | *Graphics Processing Unit*. A processing unit used for handling graphics on the computer screen |
- | Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
+| Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
 | ICAP | *Internet Content Adaption Protocol*. HTTP like protocol used to extend transparent proxy-servers. Generally used to implemnet virus scanning and content filters in transparent HTTP proxy caches.
 | JBoss     |  Application server |
@@ -27,6 +27,7 @@
 | Kerberos | A network authentication protocol. Works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner |
 | KeyStore | Keystore stores your credential (server or client) |
 | Laravel | Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching |
+| Latency | Essentially any delay or lapse in time | 
 | LDAP | *Lightweight Directory Access Protocol*. Searches a network for something that you do not know the location of. LDAP extracts information in a usable format from Active Directory, which contains attributes behind every user account on the network | 
 | Machine Learning | Subfield of artificial intelligence, which enables machines to learn from past data or experiences without being explicitly programmed |
 | Magic Bytes | First bytes in a file which is used to recognize a file | 
