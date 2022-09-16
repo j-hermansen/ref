@@ -17,7 +17,8 @@
 | GPU | *Graphics Processing Unit*. A processing unit used for handling graphics on the computer screen |
 | Hazelcast | Used for database caching. Hazelcast IMDG stores frequently accessed data in memory across an elastically scalable data grid |
 | Hessian | Web service protocol makes web services usable without requiring a large framework |
-| ICAP | *Internet Content Adaption Protocol*. HTTP like protocol used to extend transparent proxy-servers. Generally used to implemnet virus scanning and content filters in transparent HTTP proxy caches.
+| ICAP | *Internet Content Adaption Protocol*. HTTP like protocol used to extend transparent proxy-servers. Generally used to implemnet virus scanning and content filters in transparent HTTP proxy caches. |
+| Jackson | Java based library to serialize or map java objects to JSON and vice versa |
 | JBoss     |  Application server |
 | JIB | Java tool for building Docker images of Java applications without writing a Dockerfile, no need to install docker | 
 | JIT | *Just In Time*. Compiler when running app. Compiler is in the bundle of the application |
