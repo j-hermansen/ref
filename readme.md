@@ -51,6 +51,7 @@
 | Travis CI | Continious integration service used to build and test software projects hosted on GitHub and Bitbucket |
 | Truststore | Stores certificates from Certified Authorities (CA) |
 | TSLint | Static analysis tool that checks typescript code |
+| TypeScript | Language developed and maintained by Microsoft, it is a strict syntactical superset of JavaScript and adds optional static typing to the language |
 | Vue | JavaScript framework for building user interfaces, build on top of HTML, CSS, and JavaScript |
 | WebFlux | Reactive programming used in Spring |
 | Webpack | Module bundler. Generate large file(s) from a lot of smaller files. Improve efficiency and load time |
