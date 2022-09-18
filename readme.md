@@ -8,6 +8,7 @@
 | Checksum | Used for making sure that data and software you download hasn't been corrupted |
 | CLI | *Command Line Interface* |
 | cURL | *Client URL*. A computer software project providing a library (libcurl) and command-line tool (curl) for transferring data using various network protocols. |
+| C++ | Cross-playform language that can be used to create high-performance applications |
 | Cypress | JavaScript-based front end testing tool built for the modern web |
 | Dart | Programming language for client development |
 | Device Driver | A program routine that links the operating system to a peripheral device |
