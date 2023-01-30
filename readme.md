@@ -64,3 +64,4 @@
 |     Windows Registry | Stores much of the information and settings for software programs, hardware devices, user preferences, and operating-system configurations                                                                                                                                       |
 |               Yeoman | Uses many different tools and interfaces coordinated for optimized project generation, called scaffolding (quickly set up skeleton for an app)                                                                                                                                   |
 |                 Zuul | Edge service that proxies requests to multiple backing services                                                                                                                                                                                                                  |
+||| 
